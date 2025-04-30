@@ -18,10 +18,13 @@
 <p align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> </a>
+    <a href="https://php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/javascript/javascript-original.svg" alt="Typescript" width="40" height="40"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/typescript/typescript-original.svg" alt="Javascript" width="40" height="40"/> </a>
     <a href="https://www.c-language.org/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
     <a href="https://archlinux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/archlinux/archlinux-original.svg" alt="Archlinux" width="40" height="40"/> </a>
     <a href="https://argoproj.github.io/cd/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/argocd/argocd-original.svg" alt="Argocd" width="40" height="40"/> </a>
+    <a href="https://maven.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/maven/maven-original-wordmark.svg" alt="Maven" width="40" height="40"/> </a>
     <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40"/> </a>
   <a href="https://nginx.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/nginx/nginx-original.svg" alt="Nodejs" width="40" height="40"/> </a>
   <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/tomcat/tomcat-original-wordmark.svg" alt="Nodejs" width="40" height="40"/> </a>
