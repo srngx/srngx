@@ -38,10 +38,10 @@
 
 <h3 align="left">Cloud Providers:</h3>
 <p align="left">
-     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazonwebservices" width="40" height="40"/> </a>
-     <a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud Platform" width="40" height="40"/> </a>
-     <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/azure/azure-original-wordmark.svg" alt="Cloudflare" width="40" height="40"/> </a>
-    <a href="https://www.cloudflare.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40"/> </a>
-    <a href="https://vercel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="40" height="40"/> </a>
+     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazonwebservices" width="70" height="70"/> </a>
+     <a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud Platform" width="70" height="70"/> </a>
+     <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/azure/azure-original-wordmark.svg" alt="Cloudflare" width="70" height="70"/> </a>
+    <a href="https://www.cloudflare.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="70" height="70"/> </a>
+    <a href="https://vercel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="70" height="70"/> </a>
 
 </p>
